@@ -1,0 +1,20 @@
+{
+  "name": "expresshttpsfile",
+  "version": "1.0.0",
+  "description": "A file to test the HTTPS Protocol",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Arnav Gaur",
+  "license": "ISC"
+}
